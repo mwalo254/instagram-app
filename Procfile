@@ -1,1 +1,1 @@
-web: gunicorn instagram-app.wsgi
+web: gunicorn instaproject.wsgi
